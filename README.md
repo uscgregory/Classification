@@ -14,7 +14,7 @@ In the course of this project I performed the following analysis:
 * Label Encoding for Ordinal Categorical Data
 * Dummy Variable Encoding for Non-Ordinal Categorical Data
 
-[Logistic Regression Model - Coming Soon]()
+[Logistic Regression Model - Coming Soon](https://github.com/uscgregory/Classification/blob/main/Classification%20-%20Logistic%20Regression.ipynb)
 * Logistic Regression Model
 * Feature Selection using RFE and XGBoost
 * ROC and CAP Evaulations
