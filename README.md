@@ -3,7 +3,7 @@ The goal of this binary classification project is to predict whether or not a pe
 
 The data was collected via a survey on Amazon Mechanical Turk.  The dataset can be found at the UCI Machine Learning Repository.  The link to the dataset is [here.](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)
 
-***This project is a work-in progress.  Expected completion of this project is 3/18/22***
+***This project is a work-in progress.***
 
 Please review the final results of my analysis by reviewing the Classification Results - Executive Summary [Coming Soon]
 
